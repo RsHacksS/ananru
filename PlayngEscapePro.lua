@@ -1,1 +1,1 @@
-gg.alert("パスワードが間違っています。)
+gg.alert("Script Server Down. Pages 404 not Found")
